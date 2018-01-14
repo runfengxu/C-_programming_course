@@ -1,0 +1,2 @@
+When compiling, please input "make".
+And file "test_2d" and "test_3d" will test all the functions in the class MyVector.
