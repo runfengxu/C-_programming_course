@@ -1,0 +1,4 @@
+When compiling, please input "gcc gcd.c -o gcd".
+When running, please input " ./gcd number1 number2 "
+It will give the gcd of number1 and number2.
+
